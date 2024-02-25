@@ -6,7 +6,7 @@ variable "aws_region" {
 
 variable "bucket_name" {
   description = "The name of the S3 bucket."
-  default = "jasper-web-hosting-bucket"
+  default = "jaspers-web-hosting-bucket"
   type = string
 }
 
